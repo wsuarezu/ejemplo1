@@ -14,6 +14,7 @@ EJEMPLO
 <?php 
 
 echo "Hola mundo";
+echo "Probando git";
 
 
 ?>
