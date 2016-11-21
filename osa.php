@@ -16,6 +16,7 @@ EJEMPLO
 echo "Hola mundo";
 echo "Probando git";
 echo "ok";
+echo "1234";
 
 
 ?>
